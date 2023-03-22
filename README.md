@@ -16,4 +16,4 @@
 ## Документация
 - [Техническое задание](documentation/Technical_task_MoneyPie.pdf)
 - [Курсовой проект](documentation/Course_work_MoneyPie.pdf)
-- [Диаграммы]()
+- [Диаграммы](diagrams.md)
