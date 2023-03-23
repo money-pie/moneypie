@@ -11,5 +11,10 @@
 ![seguence diagram](documentation/diagrams/Sequence_diagram_au.png)
 ### Диаграмма последовательности неавторизованного пользователя 
 ![seguence diagram](documentation/diagrams/Sequence_diagram_nonau.png)
+### Диаграмма IDEF0 0 уровень 
+![IDEF0](documentation/diagrams/IDEF0_A0_0level.png)
+### Диаграмма IDEF0 1 уровень
+![IDEF0](documentation/diagrams/IDEF0_A0_1level.png)
+
 
 [Вернуться к readme](README.md)
