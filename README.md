@@ -17,6 +17,7 @@
 - [Курсовой проект](documentation/Course_work_MoneyPie.pdf)
 - [Диаграммы](diagrams.md)
 - [Презентация по ТЗ](https://docs.google.com/presentation/d/1vn5QIXNiwpEZ5kZq6l0nzbCbWc6k9gUROZVHo6Bu4go/edit?usp=sharing)
+- [Видеопрезентация](https://www.youtube.com/watch?v=PCfgFU2Bb5I)
 
 Версии в формате .docx
 - [Техническое задание](documentation/Technical_task_MoneyPie.docx)
