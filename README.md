@@ -7,6 +7,10 @@
 - [Новиков Виктор](https://github.com/qlbili)
 - [Бордюжа Екатерина](https://github.com/userkatrishaa)
 
+## Код приложения
+- [Frontend](https://github.com/money-pie/frontend)
+- [Backend](https://github.com/money-pie/backend)
+
 ## Сервисы управления командой и разработкой
 - [Trello](https://trello.com/b/N00qtBy0/dev-tasks)
 - [Miro](https://miro.com/app/board/uXjVPg7Ydy4=/)
