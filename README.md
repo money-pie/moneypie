@@ -16,6 +16,10 @@
 - [Miro](https://miro.com/app/board/uXjVPg7Ydy4=/)
 - [Figma](https://www.figma.com/file/sSEitvomcGrNhRZSfyei1C/Logo-development?node-id=0%3A1&t=bOE8AeAarE1Qm5mk-1)
 
+## Интерактивные макеты
+
+- [Интерактивный макет в Figma](https://www.figma.com/proto/olgliX6ukTrsrKfluTYk6W/Prototypes?page-id=0%3A1&node-id=42-122&viewport=8917%2C-1520%2C0.33&scaling=scale-down&starting-point-node-id=42%3A122)
+
 ## Документация
 - [Техническое задание](documentation/Technical_task_MoneyPie.pdf)
 - [Курсовой проект](documentation/Course_work_MoneyPie.pdf)
