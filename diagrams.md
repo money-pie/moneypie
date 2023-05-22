@@ -25,7 +25,10 @@
 ![collaboration diagram spending](documentation/diagrams/Collaboration_diagram_spend.png)
 ### Диаграмма сотруднечества статистики
 ![collaboration diagram stats](documentation/diagrams/Collaboration_diagram_stat.png)
-
+### ER-диаграмма базы данных
+![er diagram](documentation/diagrams/ER_diagram.png)
+### Физическая схема базы данных
+![db diagram](documentation/diagrams/DB_diagram.png)
 
 
 [Вернуться к readme](README.md)
