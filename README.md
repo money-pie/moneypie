@@ -27,6 +27,7 @@
 - [Презентация по ТЗ](https://docs.google.com/presentation/d/1vn5QIXNiwpEZ5kZq6l0nzbCbWc6k9gUROZVHo6Bu4go/edit?usp=sharing)
 - [Видеопрезентация](https://www.youtube.com/watch?v=PCfgFU2Bb5I)
 - [Отчет по ролям](documentation/Role_Report1.pdf)
+- [Презентация к защите](https://docs.google.com/presentation/d/1XdONQMs41q36byALWShR15Ox72PktKgHUnoBmHtwHg0/edit?usp=sharing)
 
 
 Версии в формате .docx
