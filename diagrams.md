@@ -2,7 +2,7 @@
 ### Диаграмма прецендентов для неавторизованного пользователя
 ![use case non-auth](documentation/diagrams/Use_case_diagram_nonau.png)
 ### Диаграмма прецендентов для авторизованного пользователя
-![use case auth](documentation/diagrams/Use_case_diagram_au.jpg)
+![use case auth](documentation/diagrams/Use_case_diagram_au.jpeg)
 ### Диаграмма активностей
 ![activity diagram](documentation/diagrams/Activity_diagram.png)
 ### Диаграмма состояния пользователя
