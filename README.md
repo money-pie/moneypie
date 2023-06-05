@@ -46,7 +46,7 @@
 
 ## Swagger
 
-- [Ссылка на Swagger]()
+- [Ссылка на скриншоты и сам Swagger](https://docs.google.com/document/d/1u5g1mWLMaaXxIdeSPHdjdIKz_9hUhS8ropkFVHJyTGk/edit?usp=sharing)
 
 ## Аналитика
 
