@@ -5,7 +5,7 @@
 
 ## Ссылка на веб-приложение
 
-- [MoneyPie]()
+- [MoneyPie](http://money-pie.ru)
 - [Инструкция по запуску](https://docs.google.com/document/d/1l6UjIQAx9IAlZ88Q1Nt2B0yNLvX2PTcjP-x1T7VRcys/edit?usp=sharing)
 
 ## Kонтакты команды разработчиков
